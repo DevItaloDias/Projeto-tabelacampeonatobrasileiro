@@ -23,7 +23,7 @@ Os nomes serão armazenados em um vetor.
 - O vetor tabela, gerado no passo 3, deve ser ordenado pela pontuação, da maior para a menor.
 - O sistema deve imprimir na tela o nome de cada time junto com sua pontuação final.
 
-## 5.Pontuação do Projeto:
+## 5. Pontuação do Projeto:
 
  A implementação do sistema será avaliada conforme a seguinte pontuação:
 - Entrada dos nomes dos times: 1,0 ponto.
